@@ -1,0 +1,9 @@
+https://ide-run.goorm.io/workspace/dsUIngKGqKkssbh1EqF?language=kor
+
+> week9
+sudo apt-get install vim libncurses5-dev gcc make git exuberant-ctags libssl-dev bison flex libelf-dev bc dwarves zstd git-email
+
+> week11
+sudo apt-get update
+sudo apt-get autoclean
+sudo apt-get autoremove

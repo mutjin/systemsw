@@ -1,0 +1,5 @@
+vi test.c
+gcc test.c
+./a.out (default)
+
+gcc test.c -o test.out
